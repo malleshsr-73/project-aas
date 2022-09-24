@@ -1,0 +1,22 @@
+AGILE AT SCALE :-
+
+Agile practices, derived from a set of foundational 
+principles, have been used for well over a decade and 
+have enjoyed much success and broad adoption in the 
+commercial sector with the net result that development 
+teams have gotten better at building software.
+Reasons include: increased visibility into a project 
+and the emerging product, increased empowerment of 
+development teams, the ability for customers and 
+end users to interact early with executable code, 
+and the direct engagement of the customer or product owner 
+in the project to provide a greater sense of shared responsibility.
+
+SCRUM MASTER :-
+
+The Scrum Master serves the Scrum Team in several ways, including:
+
+Coaching the team members in self-management and cross-functionality;
+Helping the Scrum Team focus on creating high-value Increments that meet the Definition of Done;
+Causing the removal of impediments to the Scrum Team’s progress; and,
+Ensuring that all Scrum events take place and are positive, productive, and kept within the timebox.
